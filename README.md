@@ -1,14 +1,11 @@
-# fightBoat
-
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/M_5_MKPE)
+# Final Project(Project 5,6,7)
 
 Team Members:
+1. Justin Astalos
+2. Benjamin Kohav
 
-Justin Astalos
-Benjamin Kohav
 Java Version: 17
-
-LINK TO DEMO: FinalProjectDemo.mp4https://drive.google.com/file/d/1NeGNXwJCJyNXmNudk-s0U2aR6NIWtYHq/view?usp=sharing
 
 Additional Comments:
 
-To run the code, simply execute the GameDriver file.
