@@ -1,8 +1,8 @@
 # Object Oriented Analysis and Design - Final Project
 
 Team Members:
-1. Justin Astalos
-2. Benjamin Kohav
+1. Benjamin Kohav
+2. Justin Astalos
 
 Java Version: 17
 
